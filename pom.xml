@@ -42,12 +42,12 @@
     <repository>
         <id>mph</id>
         <name>mph</name>
-        <url>http://3.16.49.136:8081/nexus/content/repositories/mph/</url>
+        <url>http://18.222.168.229:8081/nexus/content/repositories/mph/</url>
     </repository>
     <snapshotRepository>
         <id>mphsnap</id>
         <name>mphsnap</name>
-        <url>http://3.16.49.136:8081/nexus/content/repositories/mphsnap/</url>
+        <url>http://18.222.168.229:8081/nexus/content/repositories/mphsnap/</url>
     </snapshotRepository>
 </distributionManagement>
 

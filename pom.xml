@@ -4,7 +4,7 @@
   <groupId>test</groupId>
   <artifactId>my-maven</artifactId>
   <packaging>jar</packaging>
-  <version>4.2.0</version>
+  <version>4.3.0</version>
   <name>my-maven</name>
   <url>http://maven.apache.org</url>
 	
@@ -42,12 +42,12 @@
     <repository>
         <id>mph</id>
         <name>mph</name>
-        <url>http://18.222.168.229:8081/nexus/content/repositories/mph/</url>
+        <url>http://13.59.153.128:8081/nexus/content/repositories/mph/</url>
     </repository>
     <snapshotRepository>
         <id>mphsnap</id>
         <name>mphsnap</name>
-        <url>http://18.222.168.229:8081/nexus/content/repositories/mphsnap/</url>
+        <url>http://13.59.153.128:8081/nexus/content/repositories/mphsnap/</url>
     </snapshotRepository>
 </distributionManagement>
 

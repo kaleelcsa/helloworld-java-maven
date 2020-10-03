@@ -1,6 +1,6 @@
 This is my fixed for DPLM-1
 For any questions - Please email me at DevOps@RajeshKumar.xyz
-# ========================NEXUS repo==============================
+# =========================NEXUS repo==============================
 
 <distributionManagement>
 	<repository>
